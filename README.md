@@ -1,11 +1,5 @@
 # Student-Event-Management-System
 The Student Event Management System is a Java + SQLite console app for managing college events. It supports Admin (add events, register students, manage attendance, view/remove participants) and User (self-registration). Includes Email &amp; SMS notification simulation for confirmations.
-# Student Event Management System
-
-This is a simple console-based Java project for managing student events with role-based access for **Admin** and **User**.  
-The system uses **SQLite database** for storing event, student, and registration details.
-
----
 
 ## Features
 
